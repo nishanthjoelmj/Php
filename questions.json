@@ -1,0 +1,28 @@
+{
+    "ques":[
+        {
+            "questions":" 1)First atomic plant was constructed India at",
+             "opitions":" Poona, Tarapur, Kalpakkam, Dehradun",
+             "ans":" Tarapur",
+             "id":1
+        },
+        {
+            "questions":"2)In Tamil Nadu the atomic power project is located at",
+             "opitions":" Mettur, Tarapur, Kayathar, Kalpakkam",
+             "ans":" Kalpakkam",
+             "id":2
+        },
+        {
+            "questions":"3)In India, diamond quarrying is carried on at______",
+             "opitions":" Panna, Hirapur, Tiruchirapalli, Jaipur",
+             "ans":" Panna",
+             "id":3
+        },
+        {
+            "questions":"4)India's satellite launching centre is located at",
+             "opitions":" Mysore, Bangalore, Chennai, Sri Harikota",
+             "ans":" Sri Harikota",
+             "id":4
+        }
+    ]
+}
